@@ -1,0 +1,22 @@
+.game-over {
+  top: 40%;
+  left: 40%;
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: royalblue;
+  color: beige;
+  width: 20%;
+  font-size: large;
+}
+
+.retry-button {
+  border-radius: 10px;
+  margin-left: auto;
+  width: 80%;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
